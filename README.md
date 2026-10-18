@@ -44,8 +44,8 @@ python main.py
 6. 部分软件安装、卸载可能需要终端密码授权
 
 ## 项目信息
-项目名称：Brew GUI
-工具系列：QPALZM Toolkit
-开发作者：AdkSetup
-支持平台：macOS
+- 项目名称：Brew GUI
+- 工具系列：QPALZM Toolkit
+- 开发作者：AdkSetup
+- 支持平台：macOS/Linux
 
