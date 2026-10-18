@@ -18,15 +18,15 @@ Homebrew 是 macOS 和 Linux 上最常用的包管理器，但大多数时候仍
 
 核心优势：
 
-- 🖥️ **纯图形界面**：安装、更新、卸载全部通过按钮操作，无需记忆任何命令
-- 🔄 **支持 Homebrew 自身更新**：一键更新，保持包管理器最新
-- 📋 **已安装应用列表**：图形化查看当前已安装的 brew 包
-- 🍎 **macOS 原生体验**：使用 CustomTkinter 构建，界面简洁、适配 macOS 视觉风格
-- 🐧 **双平台支持**：macOS 与 Linux 均可运行（依赖系统已安装 Homebrew）
+- **纯图形界面**：安装、更新、卸载全部通过按钮操作，无需记忆任何命令
+- **支持 Homebrew 自身更新**：一键更新，保持包管理器最新
+- **已安装应用列表**：图形化查看当前已安装的 brew 包
+- **macOS 原生体验**：使用 CustomTkinter 构建，界面简洁、适配 macOS 视觉风格
+- **双平台支持**：macOS 与 Linux 均可运行（依赖系统已安装 Homebrew）
 
 ## 环境要求
 
-> ⚠️ **前提条件**：你的设备上**必须预先安装好 Homebrew**，本工具仅为图形外壳，不会自动安装 Homebrew。
+> **前提条件**：你的设备上**必须预先安装好 Homebrew**，本工具仅为图形外壳，不会自动安装 Homebrew。
 
 - macOS 或 Linux 系统
 - 已安装的 Homebrew（终端执行 `brew --version` 可验证）
@@ -135,15 +135,15 @@ Homebrew is the most popular package manager on macOS and Linux, but most of the
 
 Key features:
 
-- 🖥️ **Pure GUI**: Install, update, and uninstall via buttons — no commands to memorize
-- 🔄 **Homebrew self-update**: Keep the package manager current with one click
-- 📋 **Installed package list**: View installed brew packages graphically
-- 🍎 **Native macOS feel**: Built with CustomTkinter — clean interface matching macOS aesthetics
-- 🐧 **Cross-platform**: Runs on both macOS and Linux (requires Homebrew to be installed)
+- **Pure GUI**: Install, update, and uninstall via buttons — no commands to memorize
+- **Homebrew self-update**: Keep the package manager current with one click
+- **Installed package list**: View installed brew packages graphically
+- **Native macOS feel**: Built with CustomTkinter — clean interface matching macOS aesthetics
+- **Cross-platform**: Runs on both macOS and Linux (requires Homebrew to be installed)
 
 ## Requirements
 
-> ⚠️ **Prerequisite**: Homebrew **must already be installed** on your system. This tool is only a graphical shell and will not install Homebrew for you.
+> **Prerequisite**: Homebrew **must already be installed** on your system. This tool is only a graphical shell and will not install Homebrew for you.
 
 - macOS or Linux
 - Homebrew installed (verify with `brew --version`)
