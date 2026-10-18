@@ -46,6 +46,6 @@ python main.py
 ## 项目信息
 - 项目名称：Brew GUI
 - 工具系列：QPALZM Toolkit
-- 开发作者：AdkSetup
+- 开发作者：AdkSetup/JC5
 - 支持平台：macOS/Linux
 
