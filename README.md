@@ -11,8 +11,8 @@ macOS 专用 Homebrew 图形化管理工具，基于 CustomTkinter 开发，不�
 | 文件名称 | 适用平台 | 说明 |
 |--------|--------|------|
 | install_dependencies.sh | macOS | Mac 依赖安装脚本 |
-| BrewGUI.dmg | macOS | macOS 标准安装镜像，拖拽至应用程序即可使用 |
-| BrewGUI_Mac.zip | macOS | macOS 绿色压缩包，解压后直接运行 |
+| Brew-GUI-macos-v0.1.dmg | macOS | macOS 标准安装镜像，拖拽至应用程序即可使用 |
+| Brew-GUI-linuxormacos-v0.1.zip | macOS / Linux | macOS 绿色压缩包，解压后直接运行 |
 
 ## 📖 使用教程
 ### 方式一：运行编译好的程序包
